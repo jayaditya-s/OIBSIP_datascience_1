@@ -28,4 +28,4 @@ jupyter notebook Iris_Flower_Classification.ipynb
 ```
 
 ## Demo Video
-<YouTube/LinkedIn link>
+<LinkedIn link> https://lnkd.in/p/ghyRjHra

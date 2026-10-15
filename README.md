@@ -19,7 +19,7 @@ Build a machine learning model that predicts the species of an iris flower (Seto
 Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, Jupyter Notebook
 
 ## Outcome
-Best model: **<model name>** with a test accuracy of **<xx%>**. Petal length and petal width were the strongest predictors, and the only confusion was between Versicolor and Virginica.
+Best model: KNN with a test accuracy of 100%. Petal length and petal width were the strongest predictors, and the only confusion was between Versicolor and Virginica.
 
 ## How to Run
 ```bash
